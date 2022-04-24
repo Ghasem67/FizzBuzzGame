@@ -42,7 +42,7 @@ namespace FizzBuzz.Games
                 }
                 else if (Divisible3(i))
                 {
-                    return i + ":bizz";
+                    return i + ":fizz";
                 }
                 else if (Divisible5(i))
                 {
